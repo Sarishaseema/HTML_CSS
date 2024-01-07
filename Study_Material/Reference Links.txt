@@ -1,0 +1,33 @@
+For all web design tools:
+
+https://codingheroes.io/resources/
+
+git hub link
+
+https://github.com/jonasschmedtmann/html-css-course
+
+UIFaces
+
+https://www.uifaces.co/
+
+Tints and shades
+
+https://maketintsandshades.com/
+
+To check the contrast:
+
+https://coolors.co/
+
+To ues Icons:
+
+https://ionic.io/ionicons
+https://heroicons.com/
+
+fot colors:
+https://yeun.github.io/open-color/
+
+Browser check:
+https://caniuse.com/
+
+CSS reference
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
